@@ -2,7 +2,7 @@
 title:               'Numerical Semigroups'
 tagline:             'A place for numerical semigroups'
 description:         'A web resource for numericasgps tutorials and examples'
-url:                 http://numerical-semigroups.github.io
+url:                 https://numerical-semigroups.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
