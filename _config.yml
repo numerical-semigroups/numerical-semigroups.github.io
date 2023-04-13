@@ -1,0 +1,19 @@
+# Setup
+title:               'Numerical Semigroups'
+tagline:             'A place for numerical semigroups'
+description:         'A web resource for numericasgps tutorials and examples'
+url:                 http://numerical-semigroups.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Pedro A. García Sánchez
+  url:               https://www.ugr.es/local/pedro
+
+# Gems
+gems: [jekyll-paginate]
+
+# Custom vars
+version:             1.1.0
