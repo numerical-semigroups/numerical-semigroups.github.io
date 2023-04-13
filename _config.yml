@@ -13,7 +13,8 @@ author:
   url:               https://www.ugr.es/local/pedro
 
 # Gems
-gems: [jekyll-paginate]
-
+plugins:
+  - jekyll-paginate
+  
 # Custom vars
 version:             1.1.0
