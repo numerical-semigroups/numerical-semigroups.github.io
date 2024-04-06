@@ -4,7 +4,7 @@ tagline:             'A place for numerical semigroups'
 description:         'A web resource for numericasgps tutorials and examples'
 url:                 https://numerical-semigroups.github.io
 baseurl:             ''
-paginate:            5
+paginate:            15
 permalink:           pretty
 
 # About/contact
